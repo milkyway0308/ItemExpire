@@ -1,0 +1,8 @@
+name: ItemExpire
+version: ${version}
+main: skywolf46.itemexpire.ItemExpire
+depend:
+  - CommandAnnotation
+  - SkywolfExtraUtility
+  - PlaceHolders
+  - ReflectedNBTWrapper
